@@ -101,6 +101,7 @@ a:focus{
 	height: 400px;
 	width: 100%;
 	text-align: center;
+	background-color: #f7f5f2;
 }
 .banner_wrapper{
 	font-size: 22px;

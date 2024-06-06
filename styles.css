@@ -22,7 +22,7 @@ body{
 	/* background-color: #f3f3f3; */
 	/* background-color: #f8f7f6; */
 	/* background-color: #f7f6f0; */
-	background-color: #eae7e1;
+	background-color: #f4f4f4;
 	color: #272B2F;
 	margin: 0;
 	overflow: hidden;
@@ -101,7 +101,6 @@ a:focus{
 	height: 400px;
 	width: 100%;
 	text-align: center;
-	background-color: #f7f5f2;
 }
 .banner_wrapper{
 	font-size: 22px;

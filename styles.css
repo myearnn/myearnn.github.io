@@ -105,7 +105,7 @@ a:focus{
 .banner_wrapper{
 	font-size: 22px;
 	position: relative;
-    transform: translateY(-50%);
+        transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     top: 50%;
 }

@@ -103,13 +103,13 @@ a:focus{
 	text-align: center;
 }
 .banner_wrapper{
-	font-size: 22px;
+	font-size: 30px;
 	position: relative;
         transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     top: 50%;
 }
-.banner_wrapper h1{
+/*.banner_wrapper h1{
 	letter-spacing: 8px;
 	font-size: 60px;
 	line-height: 1;
@@ -120,9 +120,9 @@ a:focus{
 .banner_wrapper p{
 	font-size: 20px;
 	letter-spacing: 1px;
-}
+}*/
 .banner_position{
-	font-size: 16px;
+	font-size: 22px;
 	color:#9BA78A;
 }
 .arrow-down{

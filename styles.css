@@ -99,7 +99,7 @@ a:focus{
 	background-attachment: fixed;
 	backgroud-position: top center;
 	position: relative;
-	height: 500px;
+	height: 600px;
 	width: 100%;
 	text-align: center;
 	color: #fff;
@@ -131,7 +131,7 @@ a:focus{
 	color: #656565;
 	margin-top: 10px;
 	display: inline-block;
-    font-size: 30px;
+    font-size: 33px;
 	-webkit-animation: scroll-down ease-in-out 1s infinite;
 	-moz-animation: scroll-down ease-in-out 1s infinite;
 	-o-animation: scroll-down ease-in-out 1s infinite;

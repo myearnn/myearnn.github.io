@@ -95,13 +95,14 @@ a:focus{
 	/* background-image: url('/personal-portfolio/images/pexels-photo-92904.jpeg');*/
         background-image: url('images/banner1.jpg');
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100%;
 	background-attachment: fixed;
 	backgroud-position: top center;
 	position: relative;
 	height: 500px;
 	width: 100%;
 	text-align: center;
+	color: #fff;
 }
 .banner_wrapper{
 	font-size: 30px;

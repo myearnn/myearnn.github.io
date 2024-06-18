@@ -95,7 +95,7 @@ a:focus{
 	/* background-image: url('/personal-portfolio/images/pexels-photo-92904.jpeg');*/
         background-image: url('images/banner1.jpg');
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100% cover;
 	background-attachment: fixed;
 	backgroud-position: center;
 	position: relative;

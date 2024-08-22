@@ -31,8 +31,8 @@
 		        gallery: {
 					enabled: true,
 					// closeMarkup:"<button title='%title%' type='button' class='mfp-close'><i class='ion-ios-close-empty'></i></button>",
-					arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"><i class="ion-ios-arrow-%dir%"></i></button>', 
-					tPrev: 'Previous projects', // title for left button
+					arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"><i class="fa-solid fa-chevron-%dir%"></i></button>', 
+ 					tPrev: 'Previous projects', // title for left button
 					tNext: 'Next projects', // title for right button
 		        },     
 		     });
